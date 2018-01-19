@@ -1,4 +1,5 @@
-const magik.shakti 
+const magik= magik.shakti
+ 
  magikcraft.io;
 
 function lightning () {
